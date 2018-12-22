@@ -1,17 +1,9 @@
-# Hyperledger Cryptomoji
 
-This educational curriculum includes a quick intro to blockchains generally,
-before diving into distributed application development by guiding students
-through building their own [Cryptokitties](https://www.cryptokitties.co/about)
+A [Cryptokitties](https://www.cryptokitties.co/about)
 clone built with
 [Hyperledger Sawtooth](https://www.hyperledger.org/projects/sawtooth) and
-Javascript. It follows a bootcamp "sprint" format, providing a stub
-application for students to implement themselves and extensive tests to guide
-their work.
+Javascript. 
 
-Created in collaboration with [Hack Reactor](https://www.hackreactor.com).
-
-＼(＾▽＾)／
 
 ## Contents
 
